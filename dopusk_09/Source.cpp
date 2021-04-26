@@ -1,6 +1,8 @@
 #include <iostream>
 #include <string>
 
+#define PRIKOL 100
+
 using namespace std;
 
 class Credit {
